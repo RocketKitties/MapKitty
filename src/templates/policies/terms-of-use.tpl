@@ -7,9 +7,16 @@
 </ol>
 
 <div class="content">
+	<h2><i class="fa fa-gavel"></i>Terms and Conditions</h2>
 	<p>These Terms of Service cover your use of and access to the service, your rights when using the service, and your responsibilities when uploading content to the service. </p>
 
 	<div class="group">
+		<h3><i class="fa fa-check"></i>One Account per User</h3>
+		<p>You are permitted one user account per person. You may not have multiple accounts. This also means that if your account is suspended, you may not just create a new account. </p>
+
+		<h3><i class="fa fa-check"></i>Use Your Real Name</h3>
+		<p>When you create an account, you are required to provide your real / legal name in the "First name" / "Last name" form fields, not a pseudonym. You may choose a pseudonym for your username (the name that you use to log in), if you wish. </p>
+
 		<h3><i class="fa fa-check"></i>For Personal Use Only</h3>
 		<p>The service in intended for personal use.  Please contact us if you would like to use the service for your business. </p>
 

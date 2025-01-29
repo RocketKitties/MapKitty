@@ -1,7 +1,7 @@
 # define directories
 #
-src=../../sharedigm
-dest=../../sharedigm-built
+src=../../mapkitty
+dest=../../mapkitty-built
 
 #
 # functions
@@ -43,8 +43,8 @@ clean_styles() {
 		fi
 	done
 
-	# remove development files
-	for file in $(find $1 -name '*.less' -or -name '*.scss' -or -name '*.map' -or -name 'makefile'); do rm $file; done
+	# remove all less files and makefiles
+	for file in $(find $1 -name '*.less' -or -name 'makefile'); do rm $file; done
 
 	# remove all empty directories
 	find $1 -name ".DS_Store" -depth -exec rm {} \;
