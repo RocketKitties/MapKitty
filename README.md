@@ -34,20 +34,20 @@ Desktop
 
 ## Live Demo
 
-You can create an account and explore the features and benefits of the platform at [www.mapkitty.org](https://www.mapkitty.org).
+You can create an account and explore the features and benefits of the platform at [mapkitty.org](https://mapkitty.org).
 
 ## Installation
 
-Please follow the instructions in [www.mapkitty.org/#installation](https://www.mapkitty.org/#installation) to install the software on your computer or web server.
+Please follow the instructions in [mapkitty.org/#installation](https://mapkitty.org/#installation) to install the software on your computer or web server.
 
 ## Instructions
 
-See the [Sharedigm User Guide](https://www.sharedigm.com/#help) for instructions on how to use the platform.
+See the [MapKitty User Guide](https://mapkitty.org/#help) for instructions on how to use the platform.
 
 ## License
 
-Distributed under the IndieSource License which allows unrestricted use of the software except by very large corporations. See [LICENSE.md](LICENSE.md) for more information.
+Distributed under the <a href="https://indiesource.org/">IndieSource License</a> which allows unrestricted use of the software except by very large corporations. See [LICENSE.md](LICENSE.md) for more information.
 
 ## Contact
 
-mailto:admin@sharedigm.com
+mailto:admin@mapkitty.org
