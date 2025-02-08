@@ -466,7 +466,13 @@
 		"disabled": false,
 		"hidden": true,
 		"args": false,
-		"color": "grey"
+		"color": "grey",
+		"themes": [
+			"/Shared/Documents/Themes/Common/Colorful.thme",
+			"/Shared/Documents/Themes/Common/Dark.thme",
+			"/Shared/Documents/Themes/Common/Light.thme",
+			"/Shared/Documents/Themes/Common/Standard.thme"
+		]
 	},
 
 	"timer": {
