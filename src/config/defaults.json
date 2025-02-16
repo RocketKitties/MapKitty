@@ -70,7 +70,7 @@
 	"settings": {
 		"enable_notifications": true,
 		"mute_sounds": false,
-		"volume": 5
+		"volume": 1
 	},
 
 	"sharing": {
